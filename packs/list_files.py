@@ -1,9 +1,8 @@
 # _*_ coding:utf-8 _*_
-# 2020-Mar (CC BY 3.0 BR)                   #
 # ----------------------------------------- #
-# Contate o @author, Robert Carlos, para    #
-# solicitar alterações                      #
+# @author Robert Carlos                     #
 # email robert.carlos@linuxmail.org         #
+# 2020-Mar (CC BY 3.0 BR)                   #
 
 from datetime import datetime
 from glob import glob
